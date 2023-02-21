@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: news
+Implementation-Version: 1.0
+Built-By: Chung
+Implementation-Vendor-Id: com.laptrinhjavaweb
+Build-Jdk: 1.8.0_202
+Implementation-URL: http://projects.spring.io/spring-boot/news/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
